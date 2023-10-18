@@ -1,15 +1,15 @@
-#### React Router Fix
+<div align="center">
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+  <h2 align="center">React Cocktail mix project </h2>
 
-#### CRA Fix
+The Cocktail Project, a React-powered web application using React Router v6, JavaScript, and an external API, brings a world of cocktails to your fingertips. With a sleek interface and seamless navigation, it allows users to explore and discover a diverse array of drinks, making mixology accessible to all. Whether you're an aspiring bartender or simply curious, this project offers an engaging way to savor and experiment with delightful beverages.
 
-```
+<a href="https://my-react-cocktails-project.netlify.app/"><strong>➥ Live Demo</strong></a>
 
-"build": "CI= react-scripts build",
+</div>
 
-```
+<br />
 
-```sh
-npm install react-router-dom@6
-```
+### Demo Screeshots
+
+![Cocktail Project Desktop Demo](./public/image")
