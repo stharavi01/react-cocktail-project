@@ -11,6 +11,6 @@ The Cocktail Project, a React-powered web application using React Router v6, Jav
 <br />
 
 ### Demo Screeshots
+<img src="./public/image.png" alt= "logo"/>
 
 
-![Cocktail Project Desktop Demo](<img src="./public/image.png" alt= "logo"/>)
